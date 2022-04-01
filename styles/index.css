@@ -1,0 +1,58 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+} */
+
+
+
+/* .icons{
+    display: none !important;
+}
+
+section:first-of-type div:hover > .icons{
+    display: flex !important;
+}
+
+.click p{
+    opacity: 0;
+    transition: all 1s;
+}
+
+.click:hover img ,.click:hover p{
+    opacity: 1 !important;
+} */
+
+i{
+    color: darkred;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    width:100%;
+    background-color: #2f2f2f;
+
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+a{
+    color:white;
+}
+h1{
+    border:2px solid black;
+    text-align: center;
+    font:bold 15px verdana;
+    padding:10px;
+    background-color: lightyellow;
+}
+#postscontainer{
+    width:100%;
+    text-align: center;
+}
